@@ -20,11 +20,9 @@
 ---
 <br />
 
-## My Work
-
 ### Some of my works
 
-- Sito Web Acheron [<img align="left" alt="EliaMenoni" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"][acheron]
+ - [<img align="left" alt="EliaMenoni" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Sito Web Acheron][acheron]
 
 
 
@@ -49,6 +47,7 @@
 
 <br />
 <br />
+
 [WhatsApp]: https://api.whatsapp.com/send?phone=3925398587
 [Email]: mailto:menonielia00@gmail.com
 [acheron]: http://acheron.guild.it
